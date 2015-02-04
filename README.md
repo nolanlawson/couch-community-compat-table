@@ -27,7 +27,7 @@ Click the &#10003;, &#10007;, or ? to see notes.
 
 | &nbsp; | CouchDB 1.x | CouchDB 2.x | CSG | Cloudant | rcouch | PouchDB Server |
 | --- | --- | --- | --- | --- | --- | --- |
-| *PouchDB* | [&#10003;](#pouchdb--couch-1x) | [&#10003;](#pouchdb--couch-2x) | [&#10007;](#pouchdb--couchbase-sync-gateway | [?](#pouchdb--cloudant) | [?](#pouchdb--rcouch) | [&#10003;](#pouchdb--pouchdb-server) |
+| *PouchDB* | [&#10003;](#pouchdb--couch-1x) | [&#10003;](#pouchdb--couch-2x) | [&#10007;](#pouchdb--couchbase-sync-gateway) | [?](#pouchdb--cloudant) | [?](#pouchdb--rcouch) | [&#10003;](#pouchdb--pouchdb-server) |
 
 ## Notes
 
