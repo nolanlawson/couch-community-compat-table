@@ -27,7 +27,7 @@ Click the &#10003;, &#10007;, or ? to see notes.
 
 | &nbsp; | CouchDB 1.x | CouchDB 2.x | CSG | Cloudant | rcouch | PouchDB Server |
 | --- | --- | --- | --- | --- | --- | --- |
-| *PouchDB* | [&#10003;](#pouch-couch) | [&#10003;](#pouch-couch-2) | &#10007; | ? | ? | &#10003; |
+| *PouchDB* | [&#10003;](#pouchdb--couch-1x) | [&#10003;](#pouchdb--couch-2x) | [&#10007;](#pouchdb--couchbase-sync-gateway | [?](#pouchdb--cloudant) | [?](#pouchdb--rcouch) | [&#10003;](#pouchdb--pouchdb-server) |
 
 ## Notes
 
@@ -45,7 +45,7 @@ Untested, [many known issues](https://github.com/pouchdb/pouchdb/issues/3490). I
 
 ### PouchDB &#8596; Cloudant
 
-Mostly works, but there may be issues. PouchDB is tested against CouchDB 2.x, which is largely compatible with Cloudant.
+Mostly works, but there may be issues. PouchDB is tested against CouchDB 2.x, which is largely compatible with Cloudant. No big known issues.
 
 ### PouchDB &#8596; rcouch
 
