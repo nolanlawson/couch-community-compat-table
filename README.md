@@ -1,8 +1,8 @@
 # Couch Community Compat Table
 
-Many Couch-esque clients and servers claim to be "CouchDB" compatible. But compatibility is a fuzzy thing.
+Many Couch\* clients and servers claim to be "CouchDB-compatible." But compatibility is a fuzzy thing.
 
-The point of this table is to make an honest assessment of how we're doing as a community to interop with each other. And eventually, to make it a big grid of checkmarks. :smiley:
+The point of this table is to make an honest assessment of how we're doing as a community to interop with each other. And eventually, to make it one big grid of checkmarks. :smiley:
 
 Please open a pull request to add your own sync pair.
 
