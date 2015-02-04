@@ -1,4 +1,4 @@
-# Couch Community Compatability Table
+# Couch Community Compat Table
 
 Many Couch-esque clients and servers claim to be "CouchDB" compatible. But compatibility is a fuzzy thing.
 
